@@ -1,0 +1,6 @@
+isim = "ayse"
+yas = 32
+
+print(isim + " " + str(yas) + " " + "yasinda")
+
+
