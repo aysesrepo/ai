@@ -9,3 +9,6 @@ print(int(x)+int(y))
 
 isim = "Ayse"
 print = (isim)
+
+print ("""this is jane's phone""")
+
